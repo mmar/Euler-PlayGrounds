@@ -22,4 +22,4 @@ print(result2)
 let result3 = ([3,5].flatMap { stride(from: 0, to: 1000, by: $0) }.reduce(0, +)) - stride(from: 0, to: 1000, by: 15).reduce(0, +)
 print(result3)
 
-//: [Previous](@previous) [Next](@next)
+//: [Previous](@previous), [Next](@next)
