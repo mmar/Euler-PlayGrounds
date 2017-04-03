@@ -3,5 +3,6 @@
     <pages>
         <page name='Project Euler'/>
         <page name='Problem 1'/>
+        <page name='Problem 2'/>
     </pages>
 </playground>

@@ -12,4 +12,6 @@ Visit the [Project Euler website](https://projecteuler.net/)
 
 [Problem 1](Problem%201) - Multiples of 3 and 5
  
+[Problem 2](Problem%202) - Even Fibonacci numbers
+
  */
