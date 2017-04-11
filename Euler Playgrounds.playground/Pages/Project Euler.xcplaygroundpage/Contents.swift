@@ -15,5 +15,7 @@ Visit the [Project Euler website](https://projecteuler.net/)
 [Problem 2](Problem%202) - Even Fibonacci numbers
 
 [Problem 3](Problem%203) - Largest prime factor
- 
+
+[Problem 4](Problem%204) - Largest palindrome product
+
  */
