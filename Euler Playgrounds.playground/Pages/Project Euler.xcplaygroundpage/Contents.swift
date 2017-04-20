@@ -17,5 +17,7 @@ Visit the [Project Euler website](https://projecteuler.net/)
 [Problem 3](Problem%203) - Largest prime factor
 
 [Problem 4](Problem%204) - Largest palindrome product
+ 
+[Problem 5](Problem%205) - Smallest multiple
 
  */
