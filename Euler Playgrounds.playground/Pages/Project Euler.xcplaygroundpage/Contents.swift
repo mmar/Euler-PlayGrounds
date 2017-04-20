@@ -19,5 +19,7 @@ Visit the [Project Euler website](https://projecteuler.net/)
 [Problem 4](Problem%204) - Largest palindrome product
  
 [Problem 5](Problem%205) - Smallest multiple
+ 
+[Problem 6](Problem%206) - Sum square difference
 
  */
