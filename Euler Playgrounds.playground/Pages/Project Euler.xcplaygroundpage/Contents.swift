@@ -22,4 +22,6 @@ Visit the [Project Euler website](https://projecteuler.net/)
  
 [Problem 6](Problem%206) - Sum square difference
 
+[Problem 7](Problem%207) - 10001st prime
+
  */
