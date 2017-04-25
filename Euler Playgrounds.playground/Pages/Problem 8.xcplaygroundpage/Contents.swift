@@ -59,4 +59,8 @@ let result = (0..<digits.characters.count-12).map { (i: Int) -> Int in
 }.max()!
 print(result)
 
+//: ### Slightly less stringy approach
+let digitValues = digits.characters.map { Int(String($0))! }
+let result2 = (0..<digitValues.count-12).map { digitValues[$0..<$0+13].reduce(1,*) }.max()!
+print(result2)
 //: [Previous](@previous), [Next](@next)
