@@ -26,4 +26,6 @@ Visit the [Project Euler website](https://projecteuler.net/)
  
 [Problem 8](Problem%208) - Largest product in a series
 
+[Problem 9](Problem%209) - Special Pythagorean triplet
+
  */
